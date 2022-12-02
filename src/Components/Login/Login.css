@@ -1,0 +1,13 @@
+.bg-cus-login{
+    background-image: url('https://img.freepik.com/free-photo/modern-beadroom-hotel_1150-17926.jpg?w=740&t=st=1668708034~exp=1668708634~hmac=2de6b5be0dd6408e6137f61b8df5f966027fb0e3aa6b45c41bcb77645ded179d');
+    background-size: cover;
+
+}
+
+
+.angle-sd{
+    /* box-shadow: 0 8px 6px -6px #000;
+    -webkit-box-shadow: 0 8px 6px -6px #000;
+    -moz-box-shadow: 0 8px 6px -6px #000; */
+    filter: drop-shadow(21px 9px 68px #0182DC);
+}

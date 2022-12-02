@@ -1,0 +1,40 @@
+.bg-1{
+    background:linear-gradient(90deg,#171212, rgba(255, 255, 255, 0)) ,  url('https://img.freepik.com/free-photo/hotel-tropical-summer-landscape-tree_1203-4847.jpg?w=740&t=st=1669060616~exp=1669061216~hmac=26ab0048ce761c887c18d0d4c354d7f4b817a4863533614a1face10d396e12d2');
+    /* background-image: url('../../../img/banner1.jpg'); */
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.icon{
+    transform: scale(2);
+    color: #2c466edb;
+}
+
+
+.bg-cus-input{
+    background-color: #2c466edb;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+.bg-btn:hover{
+    background-color: #2c466edb !important; 
+}
+
+
+.border-cus{
+    border: 1px solid #2c466edb;
+
+}
+
+.text-cus{
+    color: #2c466edb;
+}
+
+
+.bg-cus-review{
+    background-image: url('https://img.freepik.com/free-photo/modern-beadroom-hotel_1150-17926.jpg?w=740&t=st=1668800190~exp=1668800790~hmac=4db0625a358d5d907f81b967fd193d5c7b424c4aea53a9cd7a9cb3e1a4a6a138');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

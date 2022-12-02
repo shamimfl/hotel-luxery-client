@@ -1,0 +1,10 @@
+.cus-card:hover .bg-cus-card{
+    display: block !important;
+}
+
+
+.bg-cus-card{
+    background-color: #000000ac;
+    padding: 100%;
+    display: none;
+}
